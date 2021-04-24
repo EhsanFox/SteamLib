@@ -1,6 +1,6 @@
 {
   "name": "steamlib",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a Steam Library using steamApiKey and SteamID ",
   "main": "./src/index.js",
   "repository": {

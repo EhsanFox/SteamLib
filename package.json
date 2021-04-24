@@ -1,0 +1,28 @@
+{
+  "name": "steamlib",
+  "version": "0.1.1",
+  "description": "a Steam Library using steamApiKey and SteamID ",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EhsanFox/SteamLib"
+  },
+  "keywords": [
+    "steam",
+    "steam.js",
+    "steamlib.js",
+    "csgo",
+    "dota",
+    "dota 2",
+    "dota2",
+    "steamjs",
+    "steamlibjs"
+  ],
+  "author": "EhsanFox <ehsan8184@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "@discordjs/collection": "^0.1.6",
+    "events": "^3.3.0"
+  }
+}

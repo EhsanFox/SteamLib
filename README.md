@@ -1,5 +1,4 @@
 # <center> SteamLib </center> </br>
-
 <center> <a href="https://nodei.co/npm/steamlib/"><img src="https://nodei.co/npm/steamlib.png?downloads=true"></a> </center>
 
 <center> a Steam Library using <a href="https://steamcommunity.com/dev/apikey">steamApiKey</a> and SteamID </center>
@@ -13,10 +12,10 @@
 It uses official [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) with [node-fetch](https://www.npmjs.com/package/node-fetch) package
 
 ## 📃 Documentation
-There is no need for a documentation, but there is some stuff that would be Explained in [docs.md]()
+There is no need for a documentation, but there is some stuff that would be Explained in [docs.md](https://github.com/EhsanFox/SteamLib/blob/main/docs.md)
 
 ## ✍ Examples
-All the examples can be found in [examples]() directory.
+All the examples can be found in [examples](https://github.com/EhsanFox/SteamLib/tree/main/examples) directory.
 
 ## 💻 Contributions
 Nothing much, just try use basic tools from Util.js and Try not to Break and always test before making a pull request.

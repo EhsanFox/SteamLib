@@ -5,4 +5,4 @@ So how they work? it's easy, all you have to do is to use `get` function to get 
 then what is the difference with map?
 well, if you want to use the `get` function, you need the `appId` for games and `userId` for friends, but you can easily get anything you want with `find` function and that makes this collections nice!
 
-You can find any example you want in here, however, if anything is unclear, make sure to [open an issue](https://github.com/EhsanFox/SteamLib.js/issues/new).
+You can find any example you want in here, however, if anything is unclear, make sure to [open an issue](https://github.com/EhsanFox/SteamLib/issues/new).

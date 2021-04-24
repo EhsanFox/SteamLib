@@ -26,7 +26,7 @@ Find steam apps name with their id/name or even with a RegExp
  the output would be a string that contains the app Name.
 
 # GameList
-a Collection of Games that userId is owned(More information about Collections on [examples]())
+a Collection of Games that userId is owned(More information about Collections on [examples](https://github.com/EhsanFox/SteamLib/tree/main/examples))
  ## Properties
  - `name` : Game/App name
  - `id` : Steam App ID
